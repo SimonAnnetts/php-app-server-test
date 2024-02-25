@@ -10,3 +10,5 @@
 /installers/win-wix/*.msi
 /installers/win-wix/*.wxs
 !/installers/win-wix/yourapp.wxs
+
+/www/support/scripts/*.json
